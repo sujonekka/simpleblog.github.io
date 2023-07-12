@@ -1,1 +1,1 @@
-# simpleblog.github.io
+# laravelblog.github.io
